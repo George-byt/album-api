@@ -1,56 +1,56 @@
 {
   "album": [
     {
-      "id": "1",
+      "id": 1,
       "title": "Para la guerra nada",
       "poster": "https://res.cloudinary.com/dvovmo7yu/image/upload/v1653058829/academo/Marta%20Gomez/Para-la-guerra-nada_l6wle1.jpg",
       "autor": "Marta Gómez",
       "year": "2016"
     },
     {
-      "id": "2",
+      "id": 2,
       "title": "Solo es vivir",
       "poster": "https://res.cloudinary.com/dvovmo7yu/image/upload/v1653058829/academo/Marta%20Gomez/soloesvivir_bpnrqa.jpg",
       "autor": "Marta Gómez",
       "year": "2003"
     },
     {
-      "id": "3",
+      "id": 3,
       "title": "Musiquita",
       "poster": "https://res.cloudinary.com/dvovmo7yu/image/upload/v1653058829/academo/Marta%20Gomez/musiquita-1_ncngbp.jpg",
       "autor": "Marta Gómez",
       "year": "2009"
     },
     {
-      "id": "4",
+      "id": 4,
       "title": "La alegría y el canto",
       "poster": "https://res.cloudinary.com/dvovmo7yu/image/upload/v1653058827/academo/Marta%20Gomez/laalegriayelcanto_whcuxu.jpg",
       "autor": "Marta Gómez",
       "year": "2018"
     },
     {
-      "id": "5",
+      "id": 5,
       "title": "Este instante",
       "poster": "https://res.cloudinary.com/dvovmo7yu/image/upload/v1653058826/academo/Marta%20Gomez/esteinstante_fxbhvg.jpg",
       "autor": "Marta Gómez",
       "year": "2014"
     },
     {
-      "id": "6",
+      "id": 6,
       "title": "Canciones de sol",
       "poster": "https://res.cloudinary.com/dvovmo7yu/image/upload/v1653058826/academo/Marta%20Gomez/cancionesdesol_ajmuwo.jpg",
       "autor": "Marta Gómez",
       "year": "2016"
     },
     {
-      "id": "7",
+      "id": 7,
       "title": "El corazón y el sombrero",
       "poster": "https://res.cloudinary.com/dvovmo7yu/image/upload/v1653058827/academo/Marta%20Gomez/elcorazonyelsombrero_kmlktg.jpg",
       "autor": "Marta Gómez",
       "year": "2011"
     },
     {
-      "id": "8",
+      "id": 8,
       "title": "Canto de agua dulce",
       "poster": "https://res.cloudinary.com/dvovmo7yu/image/upload/v1653058824/academo/Marta%20Gomez/cantosdeaguadulce_rrc14r.jpg",
       "autor": "Marta Gómez",
